@@ -1,0 +1,1 @@
+An early project (February 2015) I did to practise jQuery before an exam.
